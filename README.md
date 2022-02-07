@@ -8,12 +8,12 @@ O app foi desenvolvido em flutter atualizado com a nova versão com requisição
 
 <!-- HTML CODE-->
 <div>
-    <img src="https://github.com/victorlui/app_vakinha_burguer/blob/master/imgs/1.jpg" width="350" />
-    <img src="https://github.com/victorlui/app_vakinha_burguer/blob/master/imgs/2.jpg" width="350" />
-    <img src="https://github.com/victorlui/app_vakinha_burguer/blob/master/imgs/3.jpg" width="350" />
-    <img src="https://github.com/victorlui/app_vakinha_burguer/blob/master/imgs/4.jpg" width="350" />
-    <img src="https://github.com/victorlui/app_vakinha_burguer/blob/master/imgs/5.jpg" width="350" />
-    <img src="https://github.com/victorlui/app_vakinha_burguer/blob/master/imgs/6.jpg" width="350" />
+    <img src="https://github.com/victorlui/app_vakinha_burguer/blob/master/assets/images/1.jpg" width="350" />
+    <img src="https://github.com/victorlui/app_vakinha_burguer/blob/master/assets/images/2.jpg" width="350" />
+    <img src="https://github.com/victorlui/app_vakinha_burguer/blob/master/assets/images/3.jpg" width="350" />
+    <img src="https://github.com/victorlui/app_vakinha_burguer/blob/master/assets/images/4.jpg" width="350" />
+    <img src="https://github.com/victorlui/app_vakinha_burguer/blob/master/assets/images/5.jpg" width="350" />
+    <img src="https://github.com/victorlui/app_vakinha_burguer/blob/master/assets/images/6.jpg" width="350" />
 </div>
 
 
